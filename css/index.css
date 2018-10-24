@@ -1,0 +1,255 @@
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.home-pic {
+    height: 120px;
+    border-radius: 50%;
+}
+
+.main-title {
+    font-size: 130%;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #2d3436;
+    color: #dfe6e9;
+    margin-bottom: 0;
+    border-bottom: 0.3rem solid #b2bec3;
+    text-transform: uppercase;
+    position: fixed;
+    top: 0;
+    text-transform: none;
+}
+
+.main-subtitle {
+    text-align: center;
+    font-size: 70%;
+}
+
+p {
+    margin: 5px;
+}
+
+.container {
+    margin-top: 10%;
+}
+
+.content {
+    width: 780px;
+}
+
+.saudacao p {
+    color: #99A;
+    line-height: 1;
+    font-size: 1.2em;
+}
+
+.saudacao-inicio {
+    color: #889;
+    font-size: 3em;
+}
+.saudacao-ultima-linha {
+    text-align: right;
+    display: block;
+}
+.saudacao strong {
+    color: #000;
+    font-size: 2em;
+}
+.saudacao em {
+    color: #851944;
+    font-size: 4em;
+}
+
+.botao-index {
+    background-color: #d63031;
+    color: #FFF;
+    border: .1em solid #fab1a0;
+    width: 350px;
+    display: block;
+    text-align: center;
+    align-content: center;
+    font-size: 1.25em;
+    padding: .5em;
+    margin: 2em auto;
+}
+
+.botao-index-white {
+    background-color: #FFF;
+    color: #d63031;
+    border: .1em solid #fab1a0;
+    width: 350px;
+    display: block;
+    text-align: center;
+    align-content: center;
+    font-size: 1.25em;
+    padding: .5em;
+    margin: 2em auto;
+}
+
+.secao-inicio h2 {
+    text-transform: uppercase;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+.trabalhos {
+    background-color: #dfe6e9;
+    padding: 0.3em;
+    border-bottom: 10px solid #dfe6e9;
+}
+.trabalhos h2 {
+    color: #636e72;
+}
+.trabalhos ul {
+    overflow: hidden;
+    border: 0.3em solid #b2bec3;
+    margin: 2em;
+}
+.trabalhos li {
+    float: left;
+    width: 33.333%;
+}
+.trabalhos img {
+    width: 100%;
+    display: block;
+}
+.blog {
+    background-color: #d63031;
+    color: #FFF;
+    border-bottom: 10px solid #d63031;
+    position: relative;
+}
+.blog h2 {
+    margin-top: 0;
+    padding-top: 1em;
+    margin-left: 1em;
+}
+.blog li a {
+    color: #FCF;
+}
+.blog small{
+    margin-top: 0;
+    margin-left: 2.3em;
+}
+.blog ol{
+    margin-top: 0;
+    padding-top: 2em;
+    margin-left: 2.3em;
+    line-height: 3;
+}
+footer {
+    background-color: #2d3436;
+    color: #FFF;
+    padding-bottom: 1em;
+}
+footer a {
+    color: #F99;
+}
+footer h2 {
+    margin-left: 1.2em;
+    padding-top: 1em;
+}
+footer p {
+    margin-left: 2.3em;
+}
+main {
+    width: 100%;
+    padding-bottom: 0;
+    float: none;
+}
+.last-post{
+    background-color: #e17055;
+    color: #dfe6e9;
+    padding-right: 4.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+}
+.post-short{
+    position: absolute;
+    top: 2.34em;
+    right: 4em;
+    background-color: #e17055;
+    padding: 1em;
+    width: 65%;
+}
+
+/* HEADER WORDS*/
+.efficiency  {
+    position: absolute;
+    top: 20%;
+    left: 75%;
+    color: #636e72;
+    font-size: 80%;
+}
+.best-practices {
+    position: absolute;
+    top: 8%;
+    left: 60%;
+    color: #636e72;
+    font-size: 80%;
+}
+.clean-code {
+    position: absolute;
+    top: 8%;
+    left: 30%;
+    color: #636e72;
+    font-size: 80%;
+}
+.css3 {
+    position: absolute;
+    top: 18%;
+    left: 15%;
+    color: #636e72;
+    font-size: 80%;
+}
+.html5 {
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    color: #636e72;
+    font-size: 80%;
+}
+.javascript {
+    position: absolute;
+    top: 55%;
+    left: 30%;
+    color: #636e72;
+    font-size: 80%;
+}
+.accessibility {
+    position: absolute;
+    top: 40%;
+    left: 85%;
+    color: #636e72;
+    font-size: 80%;
+}
+.responsive {
+    position: absolute;
+    top: 30%;
+    left: 65%;
+    color: #636e72;
+    font-size: 80%;
+}
+.otimizacoes {
+    position: absolute;
+    top: 55%;
+    left: 58%;
+    color: #636e72;
+    font-size: 80%;
+}
+.design {
+    position: absolute;
+    top: 45%;
+    left: 10%;
+    color: #636e72;
+    font-size: 80%;
+}
+.agile {
+    position: absolute;
+    top: 70%;
+    left: 74%;
+    color: #636e72;
+    font-size: 80%;
+}

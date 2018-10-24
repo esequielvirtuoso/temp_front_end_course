@@ -1,0 +1,30 @@
+article {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #dfe6e9;
+    margin-bottom: 20px;
+}
+
+.a-footer-blog{
+    color: #F2FFFC;
+}
+
+.footer-tag {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.footer-tag a{
+    color: #636e72;
+}
+
+.read-more {
+    padding: 8px;
+    margin: 16px;
+    display: block;
+    font-size: 24px;
+    text-align: center;
+    background-color: #E6E7E8;
+}
+
+time {
+    font-family: 'Source Sans Pro', sans-serif;
+}
